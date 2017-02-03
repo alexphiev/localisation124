@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localisation124</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="button2">Localiser</string>
+    <string name="checkBox1">Actualisation en temps réel</string>
+    <string name="langue">Langue</string>
+    <string name="francais">Français</string>
+    <string name="anglais">Anglais</string>
+    <string name="infos">Infos</string>
+    <string name="title">Coordonnées</string>
+    <string name="button1">Actualiser le statut</string>
+    <string name="latitude">Latitude          = </string>
+    <string name="longitude">Longitude = </string>
+    <string name="altitude">Altitude = </string>
+    <string name="defautInconnu">inconnue ?</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
